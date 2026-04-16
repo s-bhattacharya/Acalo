@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How do I start with Acalo?",
+    "answer": "Start with a diagnostic. You will receive a clear correction path based on current performance, goals, and timeline."
+  },
+  {
+    "question": "Are packages better than one-off sessions?",
+    "answer": "Yes. Packages are intentionally priced to reward commitment and help students build measurable progress across sessions."
+  },
+  {
+    "question": "Do you support IB and GCSE students?",
+    "answer": "Yes. Acalo supports IB and GCSE learners with writing clarity, reasoning development, and exam-focused structure."
+  },
+  {
+    "question": "How is progress measured?",
+    "answer": "Progress is tracked through error patterns, reasoning quality, writing clarity, and consistency in execution—not just raw score snapshots."
+  },
+  {
+    "question": "Can I book sessions online?",
+    "answer": "Yes. Booking is handled via an external scheduling link (for example Calendly) configured in the site settings."
+  },
+  {
+    "question": "Do you offer only LSAT prep?",
+    "answer": "No. Acalo also offers final-stretch intensives plus academic writing and reasoning support for IB/GCSE tracks."
+  },
+  {
+    "question": "Will there be a student dashboard later?",
+    "answer": "Yes. Phase 2 is planned to add secure login, profiles, doubt submission, and session/resource tracking while keeping the site architecture stable."
+  }
+]

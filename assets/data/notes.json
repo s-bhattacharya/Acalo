@@ -1,0 +1,50 @@
+[
+  {
+    "id": "n1",
+    "title": "Why More Practice Isn’t Always Better",
+    "category": "LSAT",
+    "excerpt": "Volume without correction builds false confidence. Here is how to replace quantity with signal.",
+    "content": "Students often over-practice without reviewing why errors occur. A reliable review cycle includes pattern logging, timed replay, and one strategic adjustment per set.",
+    "featured": true
+  },
+  {
+    "id": "n2",
+    "title": "How to Read for Structure, Not Panic",
+    "category": "Reasoning",
+    "excerpt": "Reading faster is rarely the first fix. Structural reading improves comprehension under time constraints.",
+    "content": "Before speed, identify author intent, argument turns, and evidence anchors. This keeps inference questions manageable and reduces second-guessing.",
+    "featured": true
+  },
+  {
+    "id": "n3",
+    "title": "Building Clearer Essays Under Pressure",
+    "category": "Writing",
+    "excerpt": "A simple framework for producing coherent essays when time is limited.",
+    "content": "Use a claim-evidence-impact structure for each body paragraph and allocate fixed drafting windows. Clarity beats complexity.",
+    "featured": false
+  },
+  {
+    "id": "n4",
+    "title": "What a Good Review System Actually Looks Like",
+    "category": "Final Stretch",
+    "excerpt": "A practical review loop for the final month before exam day.",
+    "content": "Track misses by cause, not topic alone. Separate conceptual gaps from execution errors and update your weekly plan accordingly.",
+    "featured": false
+  },
+  {
+    "id": "n5",
+    "title": "Final-Week LSAT Mistakes to Avoid",
+    "category": "LSAT",
+    "excerpt": "Common mistakes that cost score gains in the final seven days.",
+    "content": "Avoid full redesigns, unnecessary resource switching, and random section stacking. Preserve rhythm and sharpen precision.",
+    "featured": false
+  },
+  {
+    "id": "n6",
+    "title": "Sharpening Reasoning Without Burning Out",
+    "category": "GCSE",
+    "excerpt": "Sustainable routines for keeping reasoning quality high over long prep cycles.",
+    "content": "Protect recovery windows and focus sessions on one objective at a time. Consistency yields stronger long-run outcomes.",
+    "featured": false
+  }
+]

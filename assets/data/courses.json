@@ -1,0 +1,46 @@
+[
+  {
+    "id": "diagnostic",
+    "name": "LSAT Diagnostic",
+    "bestFor": "Students needing a clear starting map",
+    "summary": "One focused session to identify reasoning gaps, timing friction, and writing priorities.",
+    "includes": ["Pre-session intake form", "Live correction and analysis", "Personalized 2-week action map"],
+    "category": "LSAT",
+    "featured": false
+  },
+  {
+    "id": "oneToOne",
+    "name": "1:1 Private Coaching",
+    "bestFor": "Students who need targeted weekly support",
+    "summary": "Individual correction sessions for logical reasoning, reading structure, and exam execution.",
+    "includes": ["1-on-1 live instruction", "Session recap notes", "Homework and review protocol"],
+    "category": "LSAT",
+    "featured": false
+  },
+  {
+    "id": "pack4",
+    "name": "4-Session Correction Pack",
+    "bestFor": "Students committed to measurable correction",
+    "summary": "A structured short sprint built around pattern correction and stable score movement.",
+    "includes": ["4 sessions over 2-4 weeks", "Error-pattern review tracker", "Priority drills and checkpoints"],
+    "category": "Final Stretch",
+    "featured": true
+  },
+  {
+    "id": "intensive7",
+    "name": "7-Session Intensive",
+    "bestFor": "Final-stage prep requiring accountability",
+    "summary": "A high-accountability intensive for students entering a crucial exam window.",
+    "includes": ["7 guided sessions", "Weekly progress audit", "Exam-week strategy framework"],
+    "category": "Final Stretch",
+    "featured": true
+  },
+  {
+    "id": "ibgcse",
+    "name": "IB / GCSE Support",
+    "bestFor": "Students refining writing and reasoning under syllabus pressure",
+    "summary": "Subject-aware coaching for clear writing, revision structure, and stronger exam performance.",
+    "includes": ["Syllabus-aligned planning", "Writing and argument correction", "Revision sequencing support"],
+    "category": "IB"
+  }
+]
