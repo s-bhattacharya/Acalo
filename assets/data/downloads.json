@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d1",
+    "title": "Free LSAT Study Checklist",
+    "type": "checklists",
+    "access": "free",
+    "description": "A practical weekly checklist for structured LSAT prep.",
+    "linkKey": "lsatChecklist"
+  },
+  {
+    "id": "d2",
+    "title": "Reasoning Error Log Template",
+    "type": "error logs",
+    "access": "free",
+    "description": "Track error causes to improve correction quality.",
+    "linkKey": "errorLog"
+  },
+  {
+    "id": "d3",
+    "title": "Timed Essay Structure Template",
+    "type": "essay templates",
+    "access": "premium",
+    "description": "A premium template for pressure-tested essay organization.",
+    "program": "ibgcse"
+  },
+  {
+    "id": "d4",
+    "title": "Final Stretch Revision Sheet",
+    "type": "revision sheets",
+    "access": "premium",
+    "description": "High-priority revision map for the final 2 weeks.",
+    "program": "intensive7"
+  },
+  {
+    "id": "d5",
+    "title": "Weekly Study Planner",
+    "type": "study planners",
+    "access": "free",
+    "description": "Plan focused sessions and review cycles with clarity.",
+    "linkKey": "planner"
+  },
+  {
+    "id": "d6",
+    "title": "Reading Framework Pack",
+    "type": "reading frameworks",
+    "access": "premium",
+    "description": "Frameworks for structural reading and annotation discipline.",
+    "program": "pack4"
+  }
+]

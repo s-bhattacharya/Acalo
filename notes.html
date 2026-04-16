@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Acalo Notes</title>
+<meta name="description" content="Search and filter Acalo notes on LSAT, writing, reasoning, IB, GCSE, and final-stretch prep.">
+<link rel="canonical" href="https://acalo.live/notes.html"><meta property="og:title" content="Acalo Notes">
+<link rel="stylesheet" href="styles.css"></head><body>
+<header class="topbar"><div class="container nav-inner"><a href="index.html" class="logo">Acalo</a><button class="menu-btn" id="menuBtn">Menu</button><nav class="nav-links" id="navLinks"><a href="index.html">Home</a><a href="courses.html">Courses</a><a href="notes.html" class="active">Notes</a><a href="downloads.html">Downloads</a><a href="results.html">Results</a><a href="about.html">About</a><a href="contact.html">Contact</a></nav></div></header>
+<main class="section"><div class="container">
+<h1>Notes & reasoning resources</h1><p class="lead">Searchable, filterable insights for focused exam prep.</p>
+<section class="section-sm"><h2>Featured resources</h2><div class="grid grid-2" id="featuredNotes"></div></section>
+<section><label for="notesSearch" class="small">Search notes</label><input id="notesSearch" placeholder="Search by title or keyword"></section>
+<div class="filter-row" data-chip-group="notes"><button class="chip active" data-category="All">All</button><button class="chip" data-category="LSAT">LSAT</button><button class="chip" data-category="IB">IB</button><button class="chip" data-category="GCSE">GCSE</button><button class="chip" data-category="Writing">Writing</button><button class="chip" data-category="Reasoning">Reasoning</button><button class="chip" data-category="Final Stretch">Final Stretch</button></div>
+<div class="grid grid-3" id="notesGrid"></div><p id="notesEmpty" class="muted" hidden>No notes match your search yet. Try another keyword.</p>
+</div></main>
+<footer><div class="container"><p>© <span id="year"></span> Acalo.</p></div></footer><button class="btn btn-secondary back-top" id="backTop" hidden>Back to top</button><div id="toast" class="toast" hidden></div>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script><script src="config.js"></script><script src="script.js"></script></body></html>
